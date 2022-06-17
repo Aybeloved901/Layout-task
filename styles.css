@@ -1,0 +1,97 @@
+img{
+  width: 30%;
+}
+body{
+  background-color: hsl(0, 0%, 95%);
+}
+main{
+  display: flex;
+  font-family: 'Lexend Deca';
+  font-size: 16px;
+  font-weight: 400px;
+  max-width: 1440px;
+  min-width: 375px;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: auto;
+  
+
+
+}
+.sedans{
+  line-height: 35px;
+  width: 15%;
+  padding: 55px;
+  background-color: hsl(31, 77%, 52%);
+  height: 400px;
+}
+.truck{
+  line-height: 35px;
+  width: 15%;
+  padding: 55px;
+  background-color: hsl(184, 100%, 22%);
+  height: 400px;
+}
+.luxury{
+  line-height: 35px;
+  width: 15%;
+  padding: 55px;
+  background-color: hsl(179, 100%, 13%);
+  height: 400px;
+}
+h2{
+  color: hsl(0, 0%, 95%);
+}
+p{
+    color: hsl(0, 0%, 100%);
+
+}
+.btn1 {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Lexend Deca';
+  font-weight: bold;
+  color:hsl(31, 77%, 52%);
+  font-size: 14px;
+  background-color:hsl(0, 0%, 95%);
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn1:hover {
+  text-decoration: none;
+}
+.btn2 {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Lexend Deca';
+  font-weight: bold;
+  color:hsl(184, 100%, 22%);
+  font-size: 14px;
+  background:hsl(0, 0%, 95%);
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn2:hover {
+  text-decoration: none;
+}
+.btn3 {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Lexend Deca';
+  font-weight: bold;
+  color: hsl(179, 100%, 13%);
+  font-size: 14px;
+  background:hsl(0, 0%, 95%);
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn3:hover {
+  text-decoration: none;
+}
